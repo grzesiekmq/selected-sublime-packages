@@ -1,0 +1,285 @@
+{
+    "packages": [{
+            "name": "carbon sublime",
+            "link": "https://github.com/molnarmark/carbonSublime"
+        },
+        {
+            "name": "WebGL Completions",
+            "link": "https://packagecontrol.io/packages/WebGLCompletions"
+        },
+        {
+            "name": "glslViewer",
+            "link": "https://packagecontrol.io/packages/glslViewer"
+        },
+        {
+            "name": "vlang sublime",
+            "link": "https://github.com/oversoul/vlang-sublime"
+        },
+        {
+            "name": "Monokai++",
+            "link": "https://packagecontrol.io/packages/Monokai%2B%2B"
+        },
+        {
+            "name": "Theme - Monokai Pro",
+            "link": "https://packagecontrol.io/packages/Theme%20-%20Monokai%20Pro"
+        },
+        {
+            "name": "sublime import helper",
+            "link": "https://github.com/unlight/sublime-import-helper"
+        },
+        {
+            "name": "GDScript (Godot Engine)",
+            "link": "https://packagecontrol.io/packages/GDScript%20(Godot%20Engine)"
+        },
+        {
+            "name": "Threejs Autocomplete",
+            "link": "https://packagecontrol.io/packages/Threejs%20Autocomplete"
+        },
+        {
+            "name": "Unreal.js for sublime text",
+            "link": "https://github.com/ncsoft/Unreal.js/wiki/Sublime-Text-3"
+        },
+
+        {
+            "name": "Outline",
+            "link": "https://packagecontrol.io/packages/Outline"
+        },
+        {
+            "name": "sublime code intel",
+            "link": "https://www.sublimecodeintel.com/"
+        },
+        {
+            "name": "sublime completions",
+            "link": "https://github.com/playcanvas/sublime-completions"
+        },
+        {
+            "name": "Brackets Color Scheme",
+            "link": "https://packagecontrol.io/packages/Brackets%20Color%20Scheme"
+        },
+        {
+            "name": "Tensorflow",
+            "link": "https://packagecontrol.io/packages/Tensorflow"
+        },
+        {
+            "name": "TabNine",
+            "link": "https://packagecontrol.io/packages/TabNine"
+        },
+        {
+            "name": "SublimeChangeQuotes",
+            "link": "https://github.com/colinta/SublimeChangeQuotes"
+        },
+        {
+            "name": "React Native Autocomplete",
+            "link": "https://packagecontrol.io/.../React%20Native%20Autocomplete"
+        },
+
+        {
+            "name": "rust enhanced",
+            "link": "https://github.com/rust-lang/rust-enhanced"
+        },
+        {
+            "name": "vuejs sublime complete",
+            "link": "https://github.com/BrainBuzzer/vuejs-sublime-complete"
+        },
+        {
+            "name": "Sass",
+            "link": "https://packagecontrol.io/packages/Sass"
+        },
+        {
+            "name": "sublime csscomb",
+            "link": "https://github.com/csscomb/sublime-csscomb"
+        },
+        {
+            "name": "Sql Beautifier",
+            "link": "https://packagecontrol.io/packages/SqlBeautifier"
+        },
+        {
+            "name": "Web Inspector",
+            "link": "https://packagecontrol.io/packages/Web%20Inspector"
+        },
+        {
+            "name": "FuzzyFilePath",
+            "link": "https://github.com/sagold/FuzzyFilePath"
+        },
+        {
+            "name": "NativeScript Snippets",
+            "link": "https://packagecontrol.io/packages/NativeScript%20Snippets"
+        },
+        {
+            "name": "vue syntax highlight",
+            "link": "https://github.com/vuejs/vue-syntax-highlight"
+        },
+        {
+            "name": "htmlhint",
+            "link": "https://packagecontrol.io/.../SublimeLinter-contrib-htmlhint"
+        },
+        {
+            "name": "VBDotNet",
+            "link": "https://packagecontrol.io/packages/VBDotNet"
+        },
+        {
+            "name": "AWS Lambda",
+            "link": "https://packagecontrol.io/packages/AWS%20Lambda"
+        },
+        {
+            "name": "generator sublime",
+            "link": "https://www.npmjs.com/package/generator-sublime"
+        },
+        {
+            "name": "Bump",
+            "link": "https://github.com/yavorsky/Bump"
+        },
+        {
+            "name": "SublimeServer",
+            "link": "https://packagecontrol.io/packages/SublimeServer"
+        },
+        {
+            "name": "Wallaby",
+            "link": "https://packagecontrol.io/packages/Wallaby"
+        },
+        {
+            "name": "OmniSharp",
+            "link": "https://packagecontrol.io/packages/OmniSharp"
+        },
+        {
+            "name": "SublimeJsPrettier",
+            "link": "https://github.com/jonlabelle/SublimeJsPrettier"
+        },
+        {
+            "name": "Gulp",
+            "link": "https://packagecontrol.io/packages/Gulp"
+        },
+        {
+            "name": "sublime autoprefixer",
+            "link": "https://github.com/sindresorhus/sublime-autoprefixer"
+        },
+        {
+            "name": "babel sublime",
+            "link": "https://github.com/babel/babel-sublime"
+        },
+        {
+            "name": "HTML Minifier",
+            "link": "https://packagecontrol.io/packages/HTML%20Minifier"
+        },
+        {
+            "name": "Swift",
+            "link": "https://packagecontrol.io/packages/Swift"
+        },
+        {
+            "name": "GoSublime",
+            "link": "https://github.com/DisposaBoy/GoSublime"
+        },
+        {
+            "name": "ensime sublime",
+            "link": "https://github.com/ensime/ensime-sublime"
+        },
+        {
+            "name": "JavaIME",
+            "link": "https://packagecontrol.io/packages/JavaIME"
+        },
+        {
+            "name": "kotlin sublime package",
+            "link": "https://github.com/vkostyukov/kotlin-sublime-package"
+        },
+        {
+            "name": "NASM x86 Assembly",
+            "link": "https://packagecontrol.io/packages/NASM%20x86%20Assembly"
+        },
+        {
+            "name": "Java​Script​Next - ES6 Syntax",
+            "link": "https://packagecontrol.io/packages/JavaScriptNext%20-%20ES6%20Syntax"
+        },
+        {
+            "name": "Java​Script & Node​JS Snippets",
+            "link": "https://packagecontrol.io/packages/JavaScript%20%26%20NodeJS%20Snippets"
+        },
+        {
+            "name": "TypeScript Sublime Plugin",
+            "link": "https://github.com/Microsoft/TypeScript-Sublime-Plugin"
+        },
+        {
+            "name": "Angular 2 Snippets (John Papa)",
+            "link": "https://packagecontrol.io/packages/Angular%202%20Snippets%20(John%20Papa)"
+        },
+        {
+            "name": "Ansible",
+            "link": "https://packagecontrol.io/packages/Ansible"
+        },
+        {
+            "name": "GitHubinator",
+            "link": "https://packagecontrol.io/packages/GitHubinator"
+        },
+        {
+            "name": "GhostText",
+            "link": "https://packagecontrol.io/packages/GhostText"
+        },
+        {
+            "name": "Anaconda",
+            "link": "https://packagecontrol.io/packages/Anaconda"
+        },
+        {
+            "name": "AngularJS",
+            "link": "https://packagecontrol.io/packages/AngularJS"
+        },
+        {
+            "name": "colorsublime",
+            "link": "http://colorsublime.com/"
+        },
+        {
+            "name": "DevDocs",
+            "link": "https://packagecontrol.io/packages/DevDocs"
+        },
+        {
+            "name": "Phpcs",
+            "link": "https://packagecontrol.io/packages/Phpcs"
+        },
+        {
+            "name": "JavaScript Completions",
+            "link": "https://packagecontrol.io/packages/JavaScript%20Completions"
+        },
+
+        {
+            "name": "Sublime HTMLPrettify",
+            "link": "https://github.com/victorporof/Sublime-HTMLPrettify"
+        },
+        {
+            "name": "JsFormat",
+            "link": "https://github.com/jdc0589/JsFormat"
+        },
+        {
+            "name": "Can I Use",
+            "link": "https://packagecontrol.io/packages/Can%20I%20Use"
+        },
+        {
+            "name": "DeleteBlankLines",
+            "link": "https://packagecontrol.io/packages/DeleteBlankLines"
+        },
+        {
+            "name": "Materialize",
+            "link": "https://packagecontrol.io/packages/Materialize"
+        },
+        {
+            "name": "Compare Side By Side",
+            "link": "https://packagecontrol.io/packages/Compare%20Side-By-Side"
+        },
+        {
+            "name": "Git",
+            "link": "https://packagecontrol.io/packages/Git"
+        },
+        {
+            "name": "SublimeRSS",
+            "link": "https://github.com/JaredMHall/SublimeRSS"
+        },
+        {
+            "name": "ClickableUrls SublimeText2",
+            "link": "https://github.com/leonid.../ClickableUrls_SublimeText2"
+        },
+        {
+            "name": "1Self",
+            "link": "https://packagecontrol.io/packages/1Self"
+        }
+
+
+
+    ]
+}
