@@ -1,0 +1,36 @@
+body {
+    background: #333;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    width: 90%;
+    margin: auto;
+}
+
+.item {
+    width: 17em;
+    background: #0a6c56;
+    margin: 5px;
+}
+
+.title {
+    background: #0a6c56;
+    color: white;
+
+}
+
+.container a {
+    text-decoration: none;
+}
+
+.count,
+.container a {
+
+    color: white;
+}
